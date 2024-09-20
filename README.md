@@ -7,7 +7,7 @@
 <br/>
 
 # 🎥 시연 영상
-<a href = "https://drive.google.com/drive/u/1/folders/1g4TiGN5KOyrKT9juMKA_Z63uNrX2555Y">
+<a href = "https://drive.google.com/file/d/1ad_G7_xU3oxUH44IbKzzpp6FqSo8gU8f/view?usp=sharing">
 <img src="https://img.shields.io/badge/프로젝트 소개 영상-a374db?style=for-the-badge&logoColor=white"/>
 </a>
 <a href = "https://drive.google.com/file/d/1YiN4J9GIzEKVOqw6IEpehGkDNqBocLhd/view?usp=sharing">
